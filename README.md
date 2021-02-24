@@ -7,5 +7,18 @@ In VacationPy, we are looking for ideal vacation locations based on the WeatherP
 
 In order to run the program, you will need to create a file named api_keys.py. In this file, create two variables - gkey and weather_api_key.
 
------
-This project is a part of my curriculum through the Butler Executive Bootcamp in Data Analysis and Visualization.
+## Images of Final Product:
+##### Latitude vs. Cloudiness
+![](https://github.com/MaxBrowning/python-api-challenge/blob/main/Images/Latitude_VS_Cloudiness.png)
+
+##### Latitude vs. Humidity
+![](https://github.com/MaxBrowning/python-api-challenge/blob/main/Images/Latitude_VS_Humidity.png)
+
+##### Latitude vs. Temperature
+![](https://github.com/MaxBrowning/python-api-challenge/blob/main/Images/Latitude_VS_Temperature.png)
+
+##### Latitude vs. Wind Speed
+![](https://github.com/MaxBrowning/python-api-challenge/blob/main/Images/Latitude_VS_Wind%20Speed.png)
+
+##### VacationPy Heat Map
+![](https://github.com/MaxBrowning/python-api-challenge/blob/main/Images/VacationPyHeatMap.png)
